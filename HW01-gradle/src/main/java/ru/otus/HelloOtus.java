@@ -23,7 +23,7 @@ import java.util.List;
  * To build:
  * ./gradlew build
  */
-public class App {
+public class HelloOtus {
     public static void main(String... args) {
         String str = ",,,bam,  ,  bum,, bah   ,nah";
 

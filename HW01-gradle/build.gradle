@@ -14,10 +14,10 @@ dependencies {
 
 shadowJar {
     archiveBaseName.set('gradleFatJar')
-    archiveVersion.set('0.1')
+    archiveVersion.set('0.2')
     archiveClassifier.set('')
     manifest {
-        attributes 'Main-Class': 'ru.otus.App'
+        attributes 'Main-Class': 'ru.otus.HelloOtus'
     }
 }
 
